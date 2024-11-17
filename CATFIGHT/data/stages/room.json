@@ -1,0 +1,37 @@
+{
+	"sprites": [
+		{
+			"position": [0, -700],
+			"name": "room",
+			"asset_path": "roombg"
+		},
+		{
+			"position": [2200, 150],
+			"name": "clockface",
+			"asset_path": "clock/CLOCK"
+		},
+		{
+			"position": [2200, 150],
+			"name": "clockminute",
+			"asset_path": "clock/minutes"
+		},
+		{
+			"position": [2200, 150],
+			"name": "clocksecond",
+			"asset_path": "clock/seconds"
+		}
+	],
+
+	"bf": {
+		"position": [1870, 480]
+	},
+	"gf": {
+		"position": [1450, 400]
+	},
+	"dad": {
+		"position": [700, 100]
+	},
+
+	"camera_zoom": 0.7,
+	"name": "Room"
+}

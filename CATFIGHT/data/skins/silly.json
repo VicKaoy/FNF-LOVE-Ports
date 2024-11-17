@@ -1,0 +1,79 @@
+{
+	"notes": {
+		"sprite": "silly",
+
+		"animations": [
+			["note", "note", 24, true]
+		],
+		"disableRgb": true,
+
+		"properties": [
+			{"angle": -90},
+			{"angle": 180},
+			{"angle": 0},
+			{"angle": 90}
+		],
+
+		"scale": 0.7,
+		"antialiasing": true
+	},
+
+	"sustains": {
+		"sprite": "silly",
+
+		"animations": [
+			["hold", "hold piece", 24, true]
+		],
+		"disableRgb": true,
+
+		"properties": [
+			{},
+			{},
+			{"x": 1},
+			{}
+		],
+
+		"scale": 0.7,
+		"antialiasing": true
+	},
+
+	"sustainends": {
+		"sprite": "silly",
+
+		"animations": [
+			["end", "hold end", 24, true]
+		],
+		"disableRgb": true,
+
+		"properties": [
+			{},
+			{},
+			{"x": 1},
+			{}
+		],
+
+		"scale": 0.7,
+		"antialiasing": true
+	},
+
+	"receptors": {
+		"sprite": "silly",
+
+		"animations": [
+			["static", "receptor", 24, true],
+			["pressed", "press", 24, false],
+			["confirm", "confirm", 24, false]
+		],
+		"disableRgb": true,
+
+		"properties": [
+			{"angle": -90},
+			{"angle": 180},
+			{"angle": 0},
+			{"angle": 90}
+		],
+
+		"scale": 0.7,
+		"antialiasing": true
+	}
+}

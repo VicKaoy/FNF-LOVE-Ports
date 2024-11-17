@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="music notes.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="music notes0000" x="5" y="5" width="1057" height="1080"/>
+	<SubTexture name="music notes0001" x="5" y="5" width="1057" height="1080"/>
+	<SubTexture name="music notes0002" x="5" y="5" width="1057" height="1080"/>
+	<SubTexture name="music notes0003" x="5" y="5" width="1057" height="1080"/>
+	<SubTexture name="music notes0004" x="5" y="1090" width="1057" height="1080"/>
+	<SubTexture name="music notes0005" x="5" y="1090" width="1057" height="1080"/>
+	<SubTexture name="music notes0006" x="5" y="1090" width="1057" height="1080"/>
+	<SubTexture name="music notes0007" x="5" y="1090" width="1057" height="1080"/>
+	<SubTexture name="music notes0008" x="5" y="2175" width="1057" height="1080"/>
+	<SubTexture name="music notes0009" x="5" y="2175" width="1057" height="1080"/>
+	<SubTexture name="music notes0010" x="5" y="2175" width="1057" height="1080"/>
+	<SubTexture name="music notes0011" x="5" y="2175" width="1057" height="1080"/>
+</TextureAtlas>

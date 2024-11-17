@@ -1,0 +1,16 @@
+{
+	"animations": [
+		["idle", "black-cat idle", [], 12, true, [0, 0]],
+		["singLEFT", "black-cat sing left", [], 12, false, [0, 0]],
+		["singRIGHT", "black-cat sing right", [], 12, false, [0, 0]],
+		["singDOWN", "black-cat sing down", [], 12, false, [0, 0]],
+		["singUP", "black-cat sing up", [], 12, false, [0, 0]]
+	],
+	"position": [0, 0],
+	"camera_points": [0, 0],
+	"flip_x": false,
+	"icon": "black-cat",
+	"sprite": "characters/black-cat",
+	"antialiasing": true,
+	"scale": 1
+}

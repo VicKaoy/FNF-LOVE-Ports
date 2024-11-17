@@ -1,0 +1,12 @@
+{
+	"animations": [
+		["idle", "dog", [], 12, true, [0, 0]]
+	],
+	"position": [0, 0],
+	"camera_points": [0, 0],
+	"flip_x": false,
+	"icon": "face",
+	"sprite": "characters/sdog",
+	"antialiasing": true,
+	"scale": 1
+}

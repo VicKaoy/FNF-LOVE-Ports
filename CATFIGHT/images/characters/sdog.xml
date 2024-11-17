@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="sdog.png" width="446" height="811">
+	<SubTexture name="dog0000" x="0" y="0" width="444" height="406" frameX="-81" frameY="-135" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0001" x="0" y="0" width="444" height="406" frameX="-81" frameY="-135" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0002" x="0" y="0" width="444" height="406" frameX="-81" frameY="-135" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0003" x="0" y="0" width="444" height="406" frameX="-81" frameY="-135" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0004" x="0" y="408" width="446" height="403" frameX="-82" frameY="-137" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0005" x="0" y="408" width="446" height="403" frameX="-82" frameY="-137" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0006" x="0" y="408" width="446" height="403" frameX="-82" frameY="-137" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="dog0007" x="0" y="408" width="446" height="403" frameX="-82" frameY="-137" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

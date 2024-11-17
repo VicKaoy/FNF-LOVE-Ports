@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="silk.png" width="1630" height="3150">
+	<SubTexture name="flower0000" x="0" y="1069" width="829" height="1046" frameX="-124" frameY="-33" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0001" x="0" y="1069" width="829" height="1046" frameX="-124" frameY="-33" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0002" x="0" y="1069" width="829" height="1046" frameX="-124" frameY="-33" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0003" x="0" y="1069" width="829" height="1046" frameX="-124" frameY="-33" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0004" x="0" y="0" width="814" height="1067" frameX="-95" frameY="-1" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0005" x="0" y="0" width="814" height="1067" frameX="-95" frameY="-1" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0006" x="0" y="0" width="814" height="1067" frameX="-95" frameY="-1" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0007" x="0" y="0" width="814" height="1067" frameX="-95" frameY="-1" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0008" x="831" y="1048" width="797" height="1015" frameX="-132" frameY="-47" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0009" x="831" y="1048" width="797" height="1015" frameX="-132" frameY="-47" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0010" x="831" y="1048" width="797" height="1015" frameX="-132" frameY="-47" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flower0011" x="831" y="1048" width="797" height="1015" frameX="-132" frameY="-47" frameWidth="953" frameHeight="1080"/>
+	<SubTexture name="flowers0000" x="816" y="0" width="814" height="1046" frameX="-124" frameY="-33" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0001" x="816" y="0" width="814" height="1046" frameX="-124" frameY="-33" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0002" x="816" y="0" width="814" height="1046" frameX="-124" frameY="-33" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0003" x="816" y="0" width="814" height="1046" frameX="-124" frameY="-33" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0004" x="0" y="2117" width="812" height="1031" frameX="-129" frameY="-40" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0005" x="0" y="2117" width="812" height="1031" frameX="-129" frameY="-40" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0006" x="0" y="2117" width="812" height="1031" frameX="-129" frameY="-40" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0007" x="0" y="2117" width="812" height="1031" frameX="-129" frameY="-40" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0008" x="814" y="2117" width="811" height="1033" frameX="-129" frameY="-38" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0009" x="814" y="2117" width="811" height="1033" frameX="-129" frameY="-38" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0010" x="814" y="2117" width="811" height="1033" frameX="-129" frameY="-38" frameWidth="954" frameHeight="1080"/>
+	<SubTexture name="flowers0011" x="814" y="2117" width="811" height="1033" frameX="-129" frameY="-38" frameWidth="954" frameHeight="1080"/>
+</TextureAtlas>

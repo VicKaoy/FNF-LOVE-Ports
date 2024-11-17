@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coffee.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coffee0000" x="5" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0001" x="5" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0002" x="5" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0003" x="5" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0004" x="917" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0005" x="917" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0006" x="917" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0007" x="917" y="5" width="907" height="858"/>
+	<SubTexture name="coffee0008" x="5" y="868" width="907" height="858"/>
+	<SubTexture name="coffee0009" x="5" y="868" width="907" height="858"/>
+	<SubTexture name="coffee0010" x="5" y="868" width="907" height="858"/>
+	<SubTexture name="coffee0011" x="5" y="868" width="907" height="858"/>
+</TextureAtlas>

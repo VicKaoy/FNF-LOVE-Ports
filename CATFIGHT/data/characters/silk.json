@@ -1,0 +1,20 @@
+{
+	"animations": [
+		["idle", "idle0", [], 12, true, [0, 0]],
+		["singRIGHT", "right0", [], 12, false, [0, 0]],
+		["singDOWN", "down0", [], 12, false, [0, 0]],
+		["singLEFT", "left0", [], 12, false, [0, 0]],
+		["singUP", "up0", [], 24, false, [0, 0]],
+		["singRIGHTmiss", "m right0", [], 12, false, [0, 0]],
+		["singLEFTmiss", "m left0", [], 12, false, [0, 0]],
+		["singUPmiss", "m up0", [], 12, false, [0, 0]],
+		["singDOWNmiss", "m down0", [], 12, false, [0, 0]]
+	],
+	"position": [0, 0],
+	"camera_points": [0, 0],
+	"flip_x": true,
+	"icon": "silk",
+	"sprite": "characters/silk",
+	"antialiasing": true,
+	"scale": 1
+}
